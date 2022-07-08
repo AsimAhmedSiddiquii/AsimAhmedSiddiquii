@@ -1,18 +1,18 @@
 <h1 align="center">Hey there!👋, I am Asim Ahmed Siddiqui.</h1>
-<h3 align="center">An Ardent Android / Flutter Developer and a Keen Learner.</h3>
+<h3 align="center">An Ardent Android & Web Developer and a Keen Learner.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AsimAhmedSiddiquii" alt="Asim Siddiqui" /> </p>
 
--   🔭 I’m currently working on Android / Flutter Development
+-   🔭 I’m currently working on Web Development
 
--   💬 Ask me about Dart, Java, Python, MongoDB
+-   💬 Ask me about Java, Python, JavaScript, NodeJS, ExpressJS, MongoDB
 
 -   📫 How to reach me: siddiquimim.s@gmail.com
 
--   ⚡ Fun fact: Dart over Java
+-   ⚡ Fun fact: Python over Java
 
 ### Connect with me:
 
-- [LinkedIn](https://www.linkedin.com/in/asim-ahmed-siddiqui-0b5904163/)
+- [LinkedIn](https://www.linkedin.com/in/asim-ahmed-siddiqui/)
 - [Instagram](https://www.instagram.com/over.thinker__/)
 - [Gmail](mailto:siddiquimim.s@gmail.com)
 
