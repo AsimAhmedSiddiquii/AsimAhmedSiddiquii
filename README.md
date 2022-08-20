@@ -8,7 +8,7 @@
 
 -   📫 How to reach me: siddiquimim.s@gmail.com
 
--   ⚡ Fun fact: Python over Java
+-   ⚡ Fun fact: Java over Python
 
 ### Connect with me:
 
