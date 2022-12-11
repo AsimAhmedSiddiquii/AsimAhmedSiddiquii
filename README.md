@@ -13,7 +13,7 @@
 ### Connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/asim-ahmed-siddiqui/)
-- [Instagram](https://www.instagram.com/over.thinker__/)
+- [Instagram](https://www.instagram.com/_.asimsiddiqui._/)
 - [Gmail](mailto:siddiquimim.s@gmail.com)
 
 
