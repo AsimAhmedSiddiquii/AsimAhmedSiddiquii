@@ -1,8 +1,8 @@
 <h1 align="center">Hey there!👋, I am Asim Ahmed Siddiqui.</h1>
-<h3 align="center">An Ardent Android & Web Developer and a Keen Learner.</h3>
+<h3 align="center">Software Developer at Barclays.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AsimAhmedSiddiquii" alt="Asim Siddiqui" /> </p>
 
--   🔭 I’m currently working with Barclays
+-   🔭 I’m open to opportunities
 
 -   💬 Ask me about Application Development, Distributed Systems and Cloud Technologies
 
