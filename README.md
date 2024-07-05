@@ -2,19 +2,18 @@
 <h3 align="center">An Ardent Android & Web Developer and a Keen Learner.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AsimAhmedSiddiquii" alt="Asim Siddiqui" /> </p>
 
--   🔭 I’m currently working on Web Development
+-   🔭 I’m currently working with Barclays
 
--   💬 Ask me about Java, Python, JavaScript, NodeJS, ExpressJS, MongoDB
+-   💬 Ask me about Application Development, Distributed Systems and Cloud Technologies
 
--   📫 How to reach me: siddiquimim.s@gmail.com
+-   📫 How to reach me: devasimsiddiqui@gmail.com
 
--   ⚡ Fun fact: Java over Python
+-   ⚡ Fun fact: Python is a Programming Language
 
 ### Connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/asim-ahmed-siddiqui/)
-- [Instagram](https://www.instagram.com/_.asimsiddiqui._/)
-- [Gmail](mailto:siddiquimim.s@gmail.com)
+- [Gmail](mailto:devasimsiddiqui@gmail.com)
 
 
 ### Languages and Tools:
