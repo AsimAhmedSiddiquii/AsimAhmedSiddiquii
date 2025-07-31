@@ -1,5 +1,5 @@
 <h1 align="center">Hey there!👋, I am Asim Ahmed Siddiqui.</h1>
-<h3 align="center">Software Developer at Barclays.</h3>
+<h3 align="center">Software Developer at BrowserStack</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AsimAhmedSiddiquii" alt="Asim Siddiqui" /> </p>
 
 -   🔭 I’m open to opportunities
